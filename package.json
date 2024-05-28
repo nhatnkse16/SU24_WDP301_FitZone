@@ -1,0 +1,19 @@
+{
+  "name": "su24_wdp301_fitzone",
+  "version": "1.0.0",
+  "description": "FitZone Gym & Fitness Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhatnkse16/SU24_WDP301_FitZone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhatnkse16/SU24_WDP301_FitZone/issues"
+  },
+  "homepage": "https://github.com/nhatnkse16/SU24_WDP301_FitZone#readme"
+}
